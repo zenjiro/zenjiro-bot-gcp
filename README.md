@@ -1,0 +1,2 @@
+# zenjiro-bot-bash
+Twitterのボット
