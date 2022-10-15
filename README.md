@@ -1,4 +1,4 @@
-# zenjiro-bot-bash
+# zenjiro-bot-gcp
 Twitterのボット
 
 ## 初期設定
